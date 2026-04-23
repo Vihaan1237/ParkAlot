@@ -1,0 +1,8 @@
+.git
+.gitignore
+.next
+node_modules
+npm-debug.log
+public/uploads
+prisma/dev.db
+prisma/dev.db-journal
